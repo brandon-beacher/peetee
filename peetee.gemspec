@@ -6,7 +6,7 @@ require 'peetee/version'
 Gem::Specification.new do |spec|
   spec.name          = "peetee"
   spec.version       = Peetee::VERSION
-  spec.authors       = ["Brandon Beacher"]
+  spec.authors       = ["Brandon Beacher", "Jay Hayes"]
   spec.email         = ["brandon.beacher@gmail.com"]
   spec.summary       = "A client for Pivotal Tracker's REST API v5"
   spec.homepage      = "https://github.com/brandon-beacher/peetee"
